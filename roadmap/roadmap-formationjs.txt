@@ -1,0 +1,83 @@
+ Road map Javascript
+
+1. Fundamentals
+
+    * Variables, Types, and Expressions
+    * Functions
+    * Array
+    * Objects
+    * Loops
+    * IF, Switch Statements
+    * Lexical structures
+    * Data Structures
+    * Control Flow
+    * Operators
+    * Type Conversation
+    * Scope
+    * Events
+
+Assignment
+* Counter App
+* Todo App (CRUD)
+
+2. Advanced Level
+
+    * Try Catch
+    * Callbacks
+    * Promises
+    * Async Await
+    * Error handling
+    * Modules
+    * Closure
+    * Timers
+    * Prototyping
+    * Inheritance
+    * Binding
+    * Regular Expressions
+    * Unicode
+    * Event Loops
+    * Generators
+
+Assignment
+* Ludo Dice (with Score)
+* Quiz Game
+
+3. Web Platform
+    * Cookies
+    * Web Storage
+    * Fetch
+    * APIs
+    * DOM Manipulation
+    * Service Workers
+
+Assignment
+* Messenger
+* eCommerce Prototype (API Integration)
+* Todo App (Store Data on Browser)
+
+4. Tools
+    * TypeScript
+    * Node, NPM / Yarn
+    * Webpack or Grunt / Gulp
+    * Babel
+    * ESLint
+
+Assignment
+* Setup ES6 project using webpack and babel
+
+5. Frameworks / Libraries
+    * React
+    * Vue
+    * Angular
+    * ExpressJS
+
+Assignment
+* Migrate all the existing apps (eCommerce Prototype, Todo App) in all the above techs individiually.
+
+6. Testing
+    * Jest
+    * Mocha
+    * Jasmine
+
+Assignment
+* Perform test cases for TodoApp
